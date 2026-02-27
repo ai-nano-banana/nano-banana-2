@@ -8,6 +8,15 @@
 ### Everyone is searching right now:
 **Nano Banana 2** • **Nano Banana 2 Reddit** • **Nano Banana 2 Pro** • **Google Nano Banana 2** • **Nano Banana 2 vs Pro**
 
+<div align="center">
+  <img src="https://github.com/ai-nano-banana/nano-banana-2/raw/main/image-nano-banana-2.jpg" alt="Nano Banana 2 AI Studio Features" width="90%">
+  <p>
+    <b>Nano Banana 2 (Gemini 3.1 Flash)</b> vs <b>Pro</b>: 
+    Experience lightning-fast image generation as discussed on <i>Nano Banana 2 Reddit</i>. 
+    Visit <b>NanoBanana.ai</b> for the free AI Studio.
+  </p>
+</div>
+
 ### Why Nano Banana 2 is absolutely exploding:
 - **Gemini 3.1 Flash Image** = Pro-level quality + Flash-level speed
 - Insane text rendering, perfect character consistency (up to 14 references), real-world knowledge
